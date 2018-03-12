@@ -44,13 +44,14 @@
 				</a>
 					<ul class="ml-menu">
 
-						<li><a href="/">Add Student</a></li>
-						<li><a href="/">Add Course</a></li>
-						<li><a href="/">Add Trainer</a></li>
-						<li><a href="/">Assign Trainer</a></li>
-						<li><a href="/">Fees</a></li>
+						<li><a href="addAgency">Add Agency</a></li>
+						<li><a href="addLocation">Add Location</a></li>
+						<li><a href="addDesignation">Add Designation</a></li>
+						<li><a href="addLocationType">Add Location Type</a></li>
+						<li><a href="addProductionHouse">Add Production House</a></li>
+						<li><a href="addTeamMember">Add Team Member</a></li>
 					</ul></li>
-					<li><a href="javascript:void(0);" class="menu-toggle"> <i
+					<!-- <li><a href="javascript:void(0);" class="menu-toggle"> <i
 						class="material-icons">schedule</i> <span>Batch</span>
 				</a>
 					<ul class="ml-menu">
@@ -59,7 +60,7 @@
 					</ul></li>
 					<li><a href="reports"> <i
 						class="material-icons">donut_small</i> <span>Reports</span>
-				</a></li>
+				</a></li> -->
 					 
 				<!-- <li><a href="assets/pages/typography.html"> <i
 						class="material-icons">text_fields</i> <span>Typography</span>
